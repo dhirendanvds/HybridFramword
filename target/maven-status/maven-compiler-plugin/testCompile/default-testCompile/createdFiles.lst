@@ -1,0 +1,6 @@
+com\HRM\Utilities\ExcelUtils.class
+com\HRM\Utilities\Reporting.class
+com\HRM\TestCases\TC_001_LoginWithValidCredentials.class
+com\HRM\Pages\HRM_LoginPage1.class
+com\HRM\Utilities\BaseClass.class
+com\HRM\Utilities\ReadConfigFile.class
